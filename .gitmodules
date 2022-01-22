@@ -1,0 +1,9 @@
+[submodule "external/CommonLibSSE"]
+	path = external/CommonLibSSE
+	url = https://github.com/Ryan-rsm-McKenzie/CommonLibSSE.git
+[submodule "external/CommonLibAEVR"]
+	path = external/CommonLibAEVR
+	url = https://github.com/Exit-9B/CommonLibSSE.git
+[submodule "external/Detours"]
+	path = external/Detours
+	url = https://github.com/microsoft/Detours.git
